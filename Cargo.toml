@@ -1,0 +1,9 @@
+[package]
+name = "game_of_life"
+version = "0.1.0"
+authors = ["matt wyatt <mwyatt1000@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+colored = "1.8"
+rand = "0.6.5"
